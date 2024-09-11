@@ -2,7 +2,7 @@
 
 ADMIN PANEL LOGIN DETAILS
  
-Username: manojgowda (user name was changed old one was codeprojects)
+Username: manojgowda
 Password: password
 
 
@@ -10,14 +10,10 @@ Password: password
 DON'T FORGET TO CREATE A DATABASE NAMING "votesystem" AND IMPORT THE SQL FILE AND RUN.
 WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT *****  
 
 
-***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
-
-
-***** FOR MORE PROJECTS :- https://code-projects.org/ *****
-
+***** LEAVE A COMMENT IF YOU LOVED MY WORK *****
 
 
 #THANK YOU FOR DOWNLOADING
